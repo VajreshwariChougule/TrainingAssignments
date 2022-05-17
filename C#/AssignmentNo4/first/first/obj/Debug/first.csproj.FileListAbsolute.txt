@@ -1,0 +1,8 @@
+C:\Assignments\C#\AssignmentNo4\first\first\bin\Debug\first.exe.config
+C:\Assignments\C#\AssignmentNo4\first\first\bin\Debug\first.exe
+C:\Assignments\C#\AssignmentNo4\first\first\bin\Debug\first.pdb
+C:\Assignments\C#\AssignmentNo4\first\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Assignments\C#\AssignmentNo4\first\first\obj\Debug\first.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\AssignmentNo4\first\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\AssignmentNo4\first\first\obj\Debug\first.exe
+C:\Assignments\C#\AssignmentNo4\first\first\obj\Debug\first.pdb

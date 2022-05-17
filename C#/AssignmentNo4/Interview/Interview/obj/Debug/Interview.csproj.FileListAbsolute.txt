@@ -1,0 +1,8 @@
+C:\Assignments\C#\AssignmentNo4\Interview\Interview\bin\Debug\Interview.exe.config
+C:\Assignments\C#\AssignmentNo4\Interview\Interview\bin\Debug\Interview.exe
+C:\Assignments\C#\AssignmentNo4\Interview\Interview\bin\Debug\Interview.pdb
+C:\Assignments\C#\AssignmentNo4\Interview\Interview\obj\Debug\Interview.csproj.AssemblyReference.cache
+C:\Assignments\C#\AssignmentNo4\Interview\Interview\obj\Debug\Interview.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\AssignmentNo4\Interview\Interview\obj\Debug\Interview.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\AssignmentNo4\Interview\Interview\obj\Debug\Interview.exe
+C:\Assignments\C#\AssignmentNo4\Interview\Interview\obj\Debug\Interview.pdb
