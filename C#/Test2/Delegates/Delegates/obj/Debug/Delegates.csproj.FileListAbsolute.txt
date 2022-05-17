@@ -1,0 +1,8 @@
+C:\Training_Assignments\C#\Test2\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Training_Assignments\C#\Test2\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Training_Assignments\C#\Test2\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Training_Assignments\C#\Test2\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Training_Assignments\C#\Test2\Delegates\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Training_Assignments\C#\Test2\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Training_Assignments\C#\Test2\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Training_Assignments\C#\Test2\Delegates\Delegates\obj\Debug\Delegates.pdb
