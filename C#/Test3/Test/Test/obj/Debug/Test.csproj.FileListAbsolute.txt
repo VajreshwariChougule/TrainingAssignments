@@ -1,0 +1,8 @@
+C:\Training_Assignments\C#\Test3\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Training_Assignments\C#\Test3\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Training_Assignments\C#\Test3\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Training_Assignments\C#\Test3\Test\Test\bin\Debug\Test.exe.config
+C:\Training_Assignments\C#\Test3\Test\Test\bin\Debug\Test.exe
+C:\Training_Assignments\C#\Test3\Test\Test\bin\Debug\Test.pdb
+C:\Training_Assignments\C#\Test3\Test\Test\obj\Debug\Test.exe
+C:\Training_Assignments\C#\Test3\Test\Test\obj\Debug\Test.pdb
