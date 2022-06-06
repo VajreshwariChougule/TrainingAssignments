@@ -1,0 +1,8 @@
+C:\Training_Assignments\Java Script\JavaScript\JavaScript\bin\Debug\JavaScript.exe.config
+C:\Training_Assignments\Java Script\JavaScript\JavaScript\bin\Debug\JavaScript.exe
+C:\Training_Assignments\Java Script\JavaScript\JavaScript\bin\Debug\JavaScript.pdb
+C:\Training_Assignments\Java Script\JavaScript\JavaScript\obj\Debug\JavaScript.csproj.AssemblyReference.cache
+C:\Training_Assignments\Java Script\JavaScript\JavaScript\obj\Debug\JavaScript.csproj.SuggestedBindingRedirects.cache
+C:\Training_Assignments\Java Script\JavaScript\JavaScript\obj\Debug\JavaScript.csproj.CoreCompileInputs.cache
+C:\Training_Assignments\Java Script\JavaScript\JavaScript\obj\Debug\JavaScript.exe
+C:\Training_Assignments\Java Script\JavaScript\JavaScript\obj\Debug\JavaScript.pdb

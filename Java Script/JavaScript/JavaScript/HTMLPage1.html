@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+
+<!--first quastion-->
+
+<body>
+<h1>Sample form</h1>
+1st Number: <input id="vajra" type="text" size="20" /><br /><br />
+2nd Number: <input id="ugra" type="text" size="20" /><br /><br />
+
+
+
+<button onclick="multiply()">multiply</button>
+<button onclick="divide()">Divide</button>
+
+
+
+<div id="result"></div>
+<script type="text/javascript">
+function multiply() {
+var one = document.getElementById("vajra").value;
+var two = document.getElementById("ugra").value;
+document.getElementById('result').innerHTML = 'The result is :' + one * two;
+}
+function divide() {
+var one = document.getElementById("vajra").value;
+var two = document.getElementById("ugra").value;
+document.getElementById('result').innerHTML = 'The result is:' + one % two;
+}
+</script>
+</body>
+
+<!--2nd quastion-->
+<!----
+<body>
+
+
+
+enter first number: <input id="vajra" type="text" size="20" /><br /><br />
+enter second number: <input id="ugra" type="text" size="20" /><br /><br />
+<div id="result"></div>
+<button onclick="sum()">click</button>
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+
+function sum() {
+var one = parseInt(document.getElementById("vajra").value);
+var two = parseInt(document.getElementById("ugra").value);
+if (one === two) {
+document.getElementById('result').innerHTML = 'The result is:' + (one + two)*3 ;
+
+
+
+}
+else {
+document.getElementById('result').innerHTML = 'The result is:' + (one + two);
+
+
+
+}
+}
+
+
+
+</script>
+
+
+
+</body>
+-->
+<!--3 question-->
+<!--<body>
+
+
+
+    enter first number: <input id="vajra" type="text" size="20" /><br /><br />
+    enter second number: <input id="ugra" type="text" size="20" /><br /><br />
+
+
+
+    <button onclick="check()">check</button>
+
+
+
+    <div id="result"></div>
+
+
+
+
+
+
+    <script type="text/javascript">
+
+
+
+function check() {
+var one = parseInt(document.getElementById("vajra").value);
+var two = parseInt(document.getElementById("ugra").value);
+if ((one > 50 && one < 99) && (two > 50 && two < 99)) {
+document.getElementById('result').innerHTML = true;
+}
+else {
+document.getElementById('result').innerHTML = false;
+}
+
+
+
+
+}
+
+
+
+    </script>
+
+
+
+</body>-->
